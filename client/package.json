@@ -14,7 +14,7 @@
     "redux-logger": "^3.0.6",
     "redux-simple-websocket": "^1.0.3",
     "serve": "^6.4.8",
-    "three": "^0.86.0"
+    "three": "^0.137.0"
   },
   "scripts": {
     "buildDev": "react-scripts start",
